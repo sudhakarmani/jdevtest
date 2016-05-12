@@ -10,7 +10,9 @@
                 <f:facet name="globalLinks"/>
                 <f:facet name="footer"/>
                 <f:facet name="center"/>
-                <f:facet name="start"/>
+                <f:facet name="start">
+                <a>test</a>
+                </f:facet>
                 <f:facet name="end"/>
             </af:pageTemplate>
         </af:form>
